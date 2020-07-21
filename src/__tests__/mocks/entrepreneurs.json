@@ -1,0 +1,91 @@
+[
+  {
+    "_id": { "$oid": "5ea6c8e1fb1dfe00074295dd" },
+    "companyLocation": {
+      "address": "Av Paulista",
+      "number": "2028",
+      "complement": "11 andar conj 111",
+      "city": "São Paulo",
+      "state": "SP",
+      "zipcode": "01310927",
+      "neighborhood": "Bela Vista",
+      "coordinates": [-23.5586162, -46.6592801],
+      "type": "Point"
+    },
+    "companyWorkDays": [0, 1, 2, 3, 4],
+    "companyCategory": [{ "$oid": "5ea34c052fdae1728328722a" }],
+    "companyCategorySub": [
+      { "$oid": "5ea34c062fdae1728328722f" },
+      { "$oid": "5ea34c062fdae17283287231" }
+    ],
+    "companyDeliveryMethods": [
+      { "$oid": "5ea33719ab81c300071ec6b7" },
+      { "$oid": "5ea3371dab81c300071ec6b9" }
+    ],
+    "companyPaymentMethods": [
+      { "$oid": "5ea3377a9754940008923865" },
+      { "$oid": "5ea337849754940008923869" },
+      { "$oid": "5ea33792975494000892386d" },
+      { "$oid": "5ea3378c975494000892386b" }
+    ],
+    "name": "Eduardo Seib",
+    "birthdate": { "$date": "1987-11-02T00:00:00Z" },
+    "email": "eduardoseib@gmail.com",
+    "password": "054b624743a68d8694c92a6b64019eb03214d3deaebc3531d0fcb9c8e05338217f55115622c5983e8c7ac18d26946e62ec78e7184671bcc9a5141798885b6af0",
+    "phone": "51996121830",
+    "type": 2,
+    "companyName": "ES Consultoria em Marketing e Gestão",
+    "companyDescription": "Consultoria para pequenas e médias empresas na área de gestão de projetos e marketing.",
+    "companyIsFormal": true,
+    "companyDocument": "36127474000146",
+    "companySolicitationMethods": [
+      {
+        "_id": { "$oid": "5ec3232a12792e0007c28bdd" },
+        "solicitationMethod": { "$oid": "5ea337cafe3fe90007d76ee3" },
+        "extraField": "eduardoseib@gmail.com"
+      },
+      {
+        "_id": { "$oid": "5ec3232a12792e0007c28bde" },
+        "solicitationMethod": { "$oid": "5ea337bffe3fe90007d76ee1" },
+        "extraField": "(51) 996121830"
+      },
+      {
+        "_id": { "$oid": "5ec3232a12792e0007c28bdf" },
+        "solicitationMethod": { "$oid": "5ea337aafe3fe90007d76edd" },
+        "extraField": "(51) 996121830"
+      }
+    ],
+    "companyHaveALocal": false,
+    "companyDeliveryRadius": 10,
+    "companyAttendsHome": false,
+    "companyOpeningWeekHoursFrom": "09:00",
+    "companyOpeningWeekHoursTo": "19:00",
+    "companyOpeningWeekendHoursFrom": "10:00",
+    "companyOpeningWeekendHoursTo": "13:00",
+    "companyHaveInstagram": false,
+    "companyInstagramUsername": "@eduardoseib",
+    "companyAcceptOrderByInstagram": false,
+    "companyHaveFacebook": false,
+    "companyFacebookUrl": "",
+    "companyOfferCallToAction": "Primeira hora de consultoria Grátis",
+    "companyOfferTitle": "Primeira hora de consultoria Grátis",
+    "companyOfferDescription": "Uma hora de consultoria gratuíta, para analisar seu nogócio e identificarmos juntos os melhores caminhos.",
+    "companyImagesOptIn": true,
+    "companyOptIn": false,
+    "ip": "189.27.175.202",
+    "slug": "es-consultoria-em-marketing-e-gestao",
+    "status": 1,
+    "id": "08d7c23b-12eb-46de-aa25-a64e124f51ec",
+    "companyImages": [
+      {
+        "_id": { "$oid": "5ea6c8e3ec749c0007f6c674" },
+        "principal": true,
+        "image": "https://cdn.mepoupe.com/images/entrepreneur/08d7c23b-12eb-46de-aa25-a64e124f51ec/principal-53adeca6-40cc-4ebb-9d38-ff5ee486edb3.png",
+        "id": "6df5fd2d-1148-4d6b-a929-2bce2c703a36"
+      }
+    ],
+    "createdAt": { "$date": "2020-04-27T11:58:25.302Z" },
+    "updatedAt": { "$date": "2020-05-19T00:07:06.986Z" },
+    "photo": "https://cdn.mepoupe.com/images/entrepreneur/5ea6c8e1fb1dfe00074295dd/profile-652f973b-ac4e-4ac1-9d87-fbd9bcf383fc.png"
+  }
+]

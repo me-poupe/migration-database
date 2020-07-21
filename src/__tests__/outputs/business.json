@@ -1,0 +1,89 @@
+[
+  {
+    "userId": { "$oid": "5ea6c8e1fb1dfe00074295dd" },
+    "type": "Serviço",
+    "name": "ES Consultoria em Marketing e Gestão",
+    "description": "Consultoria para pequenas e médias empresas na área de gestão de projetos e marketing.",
+    "isFormal": true,
+    "document": "36127474000146",
+    "haveALocal": false,
+    "deliveryRadius": 10,
+    "attendsHome": false,
+    "openingWeekHoursFrom": "09:00",
+    "openingWeekHoursTo": "19:00",
+    "openingWeekendHoursFrom": "10:00",
+    "openingWeekendHoursTo": "13:00",
+    "status": "Active",
+    "acceptedTerms": false,
+    "acceptedImageTerms": true,
+    "createdAt": { "$date": "2020-04-27T11:58:25.302Z" },
+    "updatedAt": { "$date": "2020-05-19T00:07:06.986Z" },
+    "photo": "https://cdn.mepoupe.com/images/entrepreneur/5ea6c8e1fb1dfe00074295dd/profile-652f973b-ac4e-4ac1-9d87-fbd9bcf383fc.png",
+    "workDays": ["Seg", "Ter", "Qua", "Qui", "Sex"],
+    "location": {
+      "address": "Av Paulista",
+      "city": "São Paulo",
+      "complement": "11 andar conj 111",
+      "coordinates": [-23.5586162, -46.6592801],
+      "neighborhood": "Bela Vista",
+      "number": "2028",
+      "state": "SP",
+      "zipcode": "01310927"
+    },
+    "images": [
+      {
+        "main": true,
+        "url": "https://cdn.mepoupe.com/images/entrepreneur/08d7c23b-12eb-46de-aa25-a64e124f51ec/principal-53adeca6-40cc-4ebb-9d38-ff5ee486edb3.png"
+      }
+    ],
+    "ads": [
+      {
+        "description": "Uma hora de consultoria gratuíta, para analisar seu nogócio e identificarmos juntos os melhores caminhos.",
+        "slug": "es-consultoria-em-marketing-e-gestao",
+        "title": "Primeira hora de consultoria Grátis"
+      }
+    ],
+    "contacts": [
+      {
+        "type": "E-mail",
+        "value": "eduardoseib@gmail.com"
+      },
+      {
+        "type": "Telefone",
+        "value": "51996121830"
+      },
+      {
+        "type": "Whatsapp",
+        "value": "51996121830"
+      },
+      {
+        "type": "Instagram",
+        "value": "@eduardoseib"
+      }
+    ],
+    "paymentMethods": [
+      "PicPay",
+      "PagSeguro",
+      "Dinheiro",
+      "Transferência bancária"
+    ],
+    "deliveryMethods": ["Eu mesmo entrego", "Correio"],
+    "categories": [
+      {
+        "image": "https://cdn.mepoupe.com/images/category/consultoria-20200420112742.png",
+        "name": "Consultoria ",
+        "slug": "consultoria",
+        "subCategories": [
+          {
+            "name": "Desenvolvimento de software",
+            "slug": "desenvolvimento-de-software"
+          },
+          {
+            "name": "Marketing Digital",
+            "slug": "marketing-digital"
+          }
+        ]
+      }
+    ]
+  }
+]
