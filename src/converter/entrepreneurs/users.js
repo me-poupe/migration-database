@@ -5,6 +5,7 @@ const userKeys = {
   name: 'name',
   birthdate: 'birthdate',
   email: 'email',
+  avatar: 'photo',
   createdAt: 'createdAt',
   updatedAt: 'updatedAt',
   password: 'password',

@@ -16,7 +16,6 @@ const businessKeys = {
   openingWeekendHoursTo: 'companyOpeningWeekendHoursTo',
   createdAt: 'createdAt',
   updatedAt: 'updatedAt',
-  photo: 'photo',
   acceptedTerms: 'companyOptIn',
   acceptedImageTerms: 'companyImagesOptIn',
 };

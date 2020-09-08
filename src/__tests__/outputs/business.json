@@ -18,7 +18,6 @@
     "acceptedImageTerms": true,
     "createdAt": { "$date": "2020-04-27T11:58:25.302Z" },
     "updatedAt": { "$date": "2020-05-19T00:07:06.986Z" },
-    "photo": "https://cdn.mepoupe.com/images/entrepreneur/5ea6c8e1fb1dfe00074295dd/profile-652f973b-ac4e-4ac1-9d87-fbd9bcf383fc.png",
     "workDays": ["Seg", "Ter", "Qua", "Qui", "Sex"],
     "location": {
       "address": "Av Paulista",
